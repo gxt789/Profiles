@@ -3,7 +3,7 @@
 
 [URL Rewrite]
 # > Douyin(<= 16.2.0) By Choler
-^https?:\/\/api.*\.amemv\.com\/aweme\/v2\/feed\/ https://aweme.snssdk.com/aweme/v1/feed/ header
+#^https?:\/\/api.*\.amemv\.com\/aweme\/v2\/feed\/ https://aweme.snssdk.com/aweme/v1/feed/ header
 
 [Map Local]
 # ---(By blackmatrix7)---
